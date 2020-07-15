@@ -80,7 +80,7 @@ done
 echo
 echo ------------
 echo
-echo Subtrat
+echo Subtract
 echo
 for((row=1;row<=rows;row++))
 do
